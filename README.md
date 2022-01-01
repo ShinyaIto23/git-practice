@@ -1,4 +1,6 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 modified in local repo.
-At main branch
+new-feature branch is using.
+At conflict branch
+>>>>>>> conflict
