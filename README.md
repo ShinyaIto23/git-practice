@@ -3,6 +3,4 @@
 modified in local repo.
 new-feature branch is using.
 At conflict branch
-
-at Github change
-Updated at 2.1.2022 11am
+on the cnflict-remote
