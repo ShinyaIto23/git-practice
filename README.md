@@ -3,5 +3,4 @@
 modified in local repo.
 new-feature branch is using.
 At conflict branch
-
-at Github change
+on the cnflict-remote
